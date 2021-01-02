@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there and welcome to my page 👋
 
-- 🔭 I’m currently working on stream processing for model training and inference
-- 🌱 I’m currently experimenting with various frameworks for machine learning applications
+- 🔭 I’m currently experimenting with various frameworks for machine learning applications, specifically stream/batch processing for model training and inference
 - 👯 If you're doing exploratory data analysis, check out my PyPI package <a href="https://github.com/tuanab/tuaneda">tuaneda</a> and feel free to collarborate on it
 
 <!--
