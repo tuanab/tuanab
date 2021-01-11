@@ -1,7 +1,7 @@
 ### Hi there and welcome to my page 👋
 
 - 🔭 I’m currently experimenting with various frameworks for machine learning applications, specifically stream/batch processing for model training and inference
-- 👯 If you're doing exploratory data analysis, check out my PyPI package <a href="https://github.com/tuanab/tuaneda">tuaneda</a> and feel free to collarborate on it
+- ✨ Check out my personal website where you can learn more about my background and personal projects
 
 <!--
 **tuanab/tuanab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
