@@ -1,7 +1,7 @@
 ### Hi there and welcome to my page 👋
 
 - 🔭 I’m currently experimenting with various frameworks for machine learning applications, specifically stream/batch processing for model training and inference
-- ✨ Check out my personal website where you can learn more about my background and personal projects
+- ✨ Check out my personal website https://tuanab.app where you can learn more about me and personal projects
 
 <!--
 **tuanab/tuanab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
