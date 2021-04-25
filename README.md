@@ -1,8 +1,6 @@
 ### Hi there and welcome to my page 👋
 
-- 🔭 I’m currently experimenting with various frameworks for machine learning applications, specifically stream/batch processing for model training and inference
-- ✨ Check out my personal website https://tuanab.app where you can learn more about me and personal projects
-
+- 🌱 Currently building SaaS software with typescript and next.js
 <!--
 **tuanab/tuanab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
