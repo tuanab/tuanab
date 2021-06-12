@@ -1,6 +1,6 @@
 ### Hi there and welcome to my page 👋
 
-- 🌱 Currently building softwares to solve problems in the financial services space.
+🌱 Currently solving technical problems in the venture debt space
 <!--
 **tuanab/tuanab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
