@@ -1,6 +1,6 @@
 ### Hi there and welcome to my page 👋
 
-🌱 Currently solving technical problems in the venture debt space
+🌱 Currently working on improving compensation intelligence at [Barley](https://www.barley.io/)
 <!--
 **tuanab/tuanab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
